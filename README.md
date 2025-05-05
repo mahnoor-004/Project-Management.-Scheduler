@@ -17,3 +17,9 @@ A Python-based Project Management Scheduler that implements First-Come-First-Ser
 **3:** Calculates start/end times sequentially
 **4:** Computes waiting time and turnaround time
 **5:** Non-preemptive (tasks run to completion)
+
+![image](https://github.com/user-attachments/assets/dfebec53-5a81-4fe2-a674-897f500004ea)
+
+![image](https://github.com/user-attachments/assets/db472d39-8bdc-4dfa-b3bd-2bb055e8ec1c)
+
+![image](https://github.com/user-attachments/assets/8343d317-c6ba-4cb2-9614-24673fb195c7)
